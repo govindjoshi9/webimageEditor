@@ -15,7 +15,7 @@ A React-based application that allows users to search for images from Unsplash, 
 
 ## **Live Demo**
 Check out the hosted version of the app here:  
-[**View Live App**](https://[HOSTED_LINK])
+[**View Live App**](https://[https://webimage-editor-pro.netlify.app/])
 
 ## **Getting Started**
 
@@ -69,3 +69,5 @@ Contributions are welcome! Please follow these steps:
 
 ### **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+![Screenshot (2)](https://github.com/user-attachments/assets/8e085035-2f95-47ca-9790-63a873f0486c)
+![Screenshot (3)](https://github.com/user-attachments/assets/7601f52a-e4d9-464b-a8e4-143946ec0510)
